@@ -36,8 +36,8 @@
   <a href="mailto:tomisinleshi.dev@gmail.com">
     <img src="https://img.shields.io/badge/email-tomisinleshi.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tomisinleshi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-tomisin-leshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/tomisin-leshi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-tomisinleshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://tomisinleshi.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-tomisinleshi.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
